@@ -1,4 +1,0 @@
-repository "Reap What You Sow@Stelath@cloud"
-  path "/"
-    br "/main"
-    co "/main"
